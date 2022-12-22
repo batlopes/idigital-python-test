@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "idigital-python"
+name = "idigital-python-test"
 version = "0.1.0"
 description = ""
 authors = ["Bruno Artur <batlopes@yahoo.com.br>"]
