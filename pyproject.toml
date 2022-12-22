@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "idigital-python"
+version = "0.1.0"
+description = ""
+authors = ["Bruno Artur <batlopes@yahoo.com.br>"]
+readme = "README.md"
+packages = [{include = "idigital_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
