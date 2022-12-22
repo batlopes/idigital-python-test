@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "idigital_python"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 
 
 [build-system]
